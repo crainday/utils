@@ -7,7 +7,7 @@
  * Time: 下午4:55
  */
 
-namespace vietnam\idcard;
+namespace crainday\utils\vietnam\idcard;
 
 class IdCardUtil
 {
