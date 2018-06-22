@@ -1,0 +1,21 @@
+{
+  "name": "crainday/utils",
+  "description": "常用的工具类",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "crainday",
+      "email": "thelostone@126.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=7.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "crainday\\utils\\": "src/"
+    }
+  }
+}
